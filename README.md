@@ -1,32 +1,3 @@
-<!--
-  GitHub Profile README Template (English)
-  ========================================
-
-  Where to put this:
-    The "magic repository" `tommie-jp/tommie-jp`
-      https://github.com/tommie-jp/tommie-jp
-    A repo whose name matches your username — its README.md is
-    automatically displayed on your GitHub profile page.
-
-  How to set it up:
-    1. Create a public repository named exactly `tommie-jp/tommie-jp`
-    2. Add this file as `README.md` (English) in the initial commit
-    3. Add the Japanese counterpart as `README.ja.md`
-       (use github-profile-readme-template.ja.md as the source)
-    4. Push, then visit https://github.com/tommie-jp to verify
-
-  Note:
-    GitHub only auto-renders `README.md` on the profile page; `README.ja.md`
-    is reachable via the language switcher link at the top of this file.
-    Visitors landing on the profile see English first by default.
-
-  Tips:
-    - Keep it short — most visitors scan it in 30 seconds
-    - 1-2 bold tagline lines + 5-10 bullets reads cleanly
-    - Pin up to 6 repos under "Customize your pins" to complement this README
-    - The GitHub stats card is optional; theme can be tweaked via `?theme=`
--->
-
 # Hi, I'm Tommie 👋
 
 [English](README.md) | [日本語](README.ja.md)
@@ -55,34 +26,9 @@ to FPGA.
 
 ## 📊 GitHub Stats
 
-<!-- Theme options: &theme=dark / tokyonight / radical / dracula -->
 ![Tommie's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommie-jp&show_icons=true&hide_border=true)
 
 ## 🌐 Links
 
 - 🏠 Website: [tommie.jp](https://tommie.jp)
 - 🐙 GitHub: [@tommie-jp](https://github.com/tommie-jp)
-<!-- Add as needed:
-- 🐦 Bluesky / X / Mastodon: [@your-handle](url)
-- 💼 LinkedIn: [your-name](url)
-- ✉️  Email: your@email
--->
-
-<!--
-  Optional sections (uncomment to use):
-
-  ## 📝 Latest Blog Posts
-  <!-- Use the blog-post-workflow Action to auto-sync from an RSS feed -->
-  - Post title — date
-
-  ## 🎯 Currently Learning / Working On
-  - Rust's embedded-hal
-  - Physics simulation in WebGPU
-
-  ## 📈 Activity Graph
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tommie-jp&hide_border=true)
-
-  ## 🏆 Achievements
-  - Open-source contribution to XYZ
-  - Talk at OSC 2026
--->
