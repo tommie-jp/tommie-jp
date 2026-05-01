@@ -11,8 +11,8 @@ to FPGA.
 
 ## 🛠 Recent Projects
 
-- **[tommieChat](https://github.com/tommie-jp/24-mmo-Tommie-chat)** — A 3D MMO chat game running in the browser (Babylon.js + Nakama)
-- **[Reversi UART Protocol](https://github.com/tommie-jp/31-reversi-uart-protocol)** — A protocol spec for connecting a custom Reversi CPU (FPGA / discrete logic) to a PC over UART
+- **[tommieChat](https://github.com/tommie-jp/tommie-chat)** — A 3D MMO chat game running in the browser (Babylon.js + Nakama)
+- **[Reversi UART Protocol](https://github.com/tommie-jp/reversi-uart-protocol)** — A protocol spec for connecting a custom Reversi CPU (FPGA / discrete logic) to a PC over UART
 
 ## 🧰 Tech Stack
 
