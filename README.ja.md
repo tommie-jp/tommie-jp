@@ -84,3 +84,5 @@
 ## 🌐 リンク
 
 - GitHub: [@tommie-jp](https://github.com/tommie-jp)
+- X: [@tommie_nico](https://x.com/tommie_nico)
+- Email: [open.tommie@gmail.com](mailto:open.tommie@gmail.com)
