@@ -6,18 +6,29 @@
 
 <div align="right">Updated: 2026-05-02</div>
 
+- AI Coding
+  - [![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
+lets me build apps I'd previously found too tedious / had been unable to build. This is the most fun I've ever had as a programmer.
 - My Theme
   - Real-time web sites
-  - `Soft-FPGA`: a technology I propose — convert [Verilog](https://en.wikipedia.org/wiki/Verilog) source to C++ via [Verilator](https://verilator.org/), then run on microcontrollers
+    - Currently building an MMO (tommieChat).
+  - [![Soft-FPGA](https://img.shields.io/badge/-Soft--FPGA-4A90E2?logoColor=white)](https://github.com/tommie-jp/Soft-FPGA-Reversi)
+    - A technology I propose: convert [Verilog](https://en.wikipedia.org/wiki/Verilog) source to C++ via [Verilator](https://verilator.org/), then run on microcontrollers.
 
-- Analog circuits
+- Analog circuits (learning)
   - Interested in RF circuits.
   - Love simulating with LTspice.
-  - Currently studying for [Denken Class-3](https://www.shiken.or.jp/chief/third/) (Japan's Class III Chief Electrical Engineer license).
+  - Goal: build my own RF transceiver from a homebrew circuit.
 
 - Certifications
-  - [Class 1 Information Processing Certification](https://www.ipa.go.jp/)
-  - [Second-class Amateur Radio Operator (Japan)](https://www.nichimu.or.jp/)
+  - [Class 1 Information Processing Certification](https://www.ipa.go.jp/shiken/kubun/old.html)
+    - Equivalent to today's [Applied Information Technology Engineer (AP) Exam](https://www.ipa.go.jp/shiken/kubun/ap.html).
+  - [Second-class Amateur Radio Operator](https://www.nichimu.or.jp/denpa/shikaku/ama/index.html)
+    - Haven't opened a station yet (would like to).
+  - Currently studying for [Denken Class-3](https://www.shiken.or.jp/chief/third/) (Japan's Class III Chief Electrical Engineer license).
+
+- Languages
+  - English: I can read IT technical books in English. Daily conversation is OK, but business-level may still be tough.
 
 ## 🛠 Recent Projects
 
