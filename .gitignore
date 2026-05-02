@@ -13,4 +13,4 @@ Thumbs.db
 .claude/settings.local.json
 .claude/.credentials.json
 .claude/cache/
-32-tommie-jp.code-workspace
+*.code-workspace
