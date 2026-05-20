@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "diagram": "mmdc -i docs/diagrams/$npm_config_name.mmd -o docs/diagrams/$npm_config_name.svg"
+  }
+}
