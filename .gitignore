@@ -14,3 +14,4 @@ Thumbs.db
 .claude/.credentials.json
 .claude/cache/
 *.code-workspace
+*-ignore*
