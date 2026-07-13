@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:tommie.jp;;;;
+FN:tommie.jp
+X-PHONETIC-LAST-NAME:とみー
+TITLE:プログラマー
+EMAIL;TYPE=HOME:open.tommie@gmail.com
+URL:https://github.com/tommie-jp/tommie-jp/blob/main/README.ja.md
+URL;TYPE=github:https://github.com/tommie-jp
+URL;TYPE=twitter:https://x.com/tommie_nico
+X-SOCIALPROFILE;TYPE=github:https://github.com/tommie-jp
+X-SOCIALPROFILE;TYPE=twitter:https://x.com/tommie_nico
+ADR;TYPE=HOME:;;;;Tokyo;;Japan
+NOTE:よろしくです！updated on 2026-07-14
+END:VCARD

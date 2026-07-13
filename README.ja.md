@@ -2,9 +2,12 @@
 
 [English](README.md) | [日本語](README.ja.md)
 
+<div align="right"><sub><a href="docs/qr-profile-ja.png">QRコード</a></sub></div>
+<div align="right"><sub><a href="https://tommie-jp.github.io/tommie-jp/docs/tommie.vcf">連絡先に追加 (vCard)</a> | <a href="docs/qr-vcard.png">vCard QRコード</a></sub></div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-@tommie--jp-181717?logo=github)](https://github.com/tommie-jp)
 
-<div align="right">更新日: 2026-05-02</div>
+<div align="right">更新日: 2026-07-14</div>
 
 - AIコーディング
   - [![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
@@ -79,7 +82,6 @@
 [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![MSYS2](https://img.shields.io/badge/-MSYS2-1F2937?logo=msys2&logoColor=white)](https://www.msys2.org/)
-
 
 ## 🌐 リンク
 
