@@ -3,7 +3,7 @@
 [English](README.md) | [日本語](README.ja.md)
 
 <div align="right"><sub><a href="docs/qr-profile-en.png">QR code</a></sub></div>
-<div align="right"><sub><a href="https://tommie-jp.github.io/tommie-jp/docs/tommie.vcf">Add to contacts (vCard)</a> | <a href="docs/qr-vcard.png">vCard QR code</a></sub></div>
+<div align="right"><sub><a href="https://tommie-jp.github.io/tommie-jp/docs/tommie.vcf?v=20260714">Add to contacts (vCard)</a> | <a href="docs/qr-vcard.png">vCard QR code</a></sub></div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-@tommie--jp-181717?logo=github)](https://github.com/tommie-jp)
 
