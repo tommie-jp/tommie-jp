@@ -9,6 +9,8 @@
 
 <div align="right">更新日: 2026-07-14</div>
 
+> 💼 お仕事のご相談を歓迎しています。プロジェクトの商品化などにご興味のある方も、お気軽に [open.tommie@gmail.com](mailto:open.tommie@gmail.com) までご連絡ください。
+
 - 在住
   - 日本・東京都
 - AIコーディング

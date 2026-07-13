@@ -9,6 +9,8 @@
 
 <div align="right">Updated: 2026-07-14</div>
 
+> 💼 I'm open to work opportunities. If you're interested in collaborating — including productizing any of my projects — feel free to reach out at [open.tommie@gmail.com](mailto:open.tommie@gmail.com).
+
 - Location
   - Tokyo, Japan
 - AI Coding
