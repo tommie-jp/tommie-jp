@@ -11,7 +11,7 @@
 
 - AIコーディング
   - [![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
-で 今まで面倒で 作らなかった/作れなかった アプリが作れるようになって、プログラマー人生で今が一番楽しい。
+プログラマー人生で今が一番楽しい。
 - 私のテーマ
   - リアルタイムで動くWebサイト
     - 現在、MMO(tommieChat)を作っています。
