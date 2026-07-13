@@ -9,7 +9,7 @@
 
 <div align="right">Updated: 2026-07-14</div>
 
-> 💼 I'm open to work opportunities. If you're interested in collaborating — including productizing any of my projects — feel free to reach out at [open.tommie@gmail.com](mailto:open.tommie@gmail.com).
+> 💼 I'm open to work opportunities. I can help across real-time web, embedded systems, and low-level optimization. If you're interested in collaborating — including productizing any of my projects — feel free to reach out at [open.tommie@gmail.com](mailto:open.tommie@gmail.com).
 
 - Location
   - Tokyo, Japan
@@ -41,6 +41,7 @@ This is the most fun I've ever had as a programmer.
 ## 🛠 Recent Projects
 
 - **[guruguru-avatar](https://github.com/tommie-jp/guruguru-avatar)** — Web app that drives a 2D avatar from webcam head-pose estimation, for live streaming
+- **[soft-fpga](https://github.com/tommie-jp/soft-fpga)** — Runs Verilog RTL in the browser via Verilator + Emscripten, visualizing internal signals (T-states, bus cycles, FSM) in real time — something no instruction emulator can show ([live demo](https://tommie-jp.github.io/soft-fpga/))
 - **[tommieChat](https://github.com/tommie-jp/tommie-chat)** — A 3D MMO chat running in the browser (Babylon.js + Nakama server). Inspired by the once-popular Ameba Pigg
 - **[Reversi UART Protocol](https://github.com/tommie-jp/reversi-uart-protocol)** — A protocol spec proposal for connecting a custom CPU to a PC over UART
 - **[Soft-FPGA-Reversi](https://github.com/tommie-jp/Soft-FPGA-Reversi)** — Pure Othello accelerator written in Verilog, run via Verilator on Raspberry Pi Pico 2
