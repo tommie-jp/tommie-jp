@@ -9,6 +9,8 @@
 
 <div align="right">更新日: 2026-07-14</div>
 
+- 在住
+  - 日本・東京都
 - AIコーディング
   - [![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
 プログラマー人生で今が一番楽しい。
@@ -35,6 +37,7 @@
 
 ## 🛠 主なプロジェクト
 
+- **[guruguru-avatar](https://github.com/tommie-jp/guruguru-avatar)** — Web カメラの頭部姿勢推定で 2D アバターを動かす、ライブ配信向け Web アプリ
 - **[tommieChat](https://github.com/tommie-jp/tommie-chat)** — ブラウザで動く 3D MMO チャット (Babylon.js + Nakama サーバ)。かつて人気だったアメーバ Pigg をリスペクト
 - **[Reversi UART Protocol](https://github.com/tommie-jp/reversi-uart-protocol)** — 自作 CPU を PC に UART 接続するためのプロトコル仕様の提案
 - **[Soft-FPGA-Reversi](https://github.com/tommie-jp/Soft-FPGA-Reversi)** — Verilog で書いたリバーシ専用アクセラレータを Verilator 経由で Raspberry Pi Pico 2 上で動かす実装

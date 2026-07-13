@@ -9,9 +9,11 @@
 
 <div align="right">Updated: 2026-07-14</div>
 
+- Location
+  - Tokyo, Japan
 - AI Coding
   - [![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/claude-code)
-lets me build apps I'd previously found too tedious / had been unable to build. This is the most fun I've ever had as a programmer.
+This is the most fun I've ever had as a programmer.
 - My Theme
   - Real-time web sites
     - Currently building an MMO (tommieChat).
@@ -23,7 +25,7 @@ lets me build apps I'd previously found too tedious / had been unable to build. 
   - Love simulating with LTspice.
   - Goal: build my own RF transceiver from a homebrew circuit.
 
-- Certifications
+- Certifications (Japanese national qualifications)
   - [Class 1 Information Processing Certification](https://www.ipa.go.jp/shiken/kubun/old.html)
     - Equivalent to today's [Applied Information Technology Engineer (AP) Exam](https://www.ipa.go.jp/shiken/kubun/ap.html).
   - [Second-class Amateur Radio Operator](https://www.nichimu.or.jp/denpa/shikaku/ama/index.html)
@@ -31,10 +33,12 @@ lets me build apps I'd previously found too tedious / had been unable to build. 
   - Currently studying for [Denken Class-3](https://www.shiken.or.jp/chief/third/) (Japan's Class III Chief Electrical Engineer license).
 
 - Languages
+  - Japanese: Native speaker.
   - English: I can read IT technical books in English. Daily conversation is OK, but business-level may still be tough.
 
 ## 🛠 Recent Projects
 
+- **[guruguru-avatar](https://github.com/tommie-jp/guruguru-avatar)** — Web app that drives a 2D avatar from webcam head-pose estimation, for live streaming
 - **[tommieChat](https://github.com/tommie-jp/tommie-chat)** — A 3D MMO chat running in the browser (Babylon.js + Nakama server). Inspired by the once-popular Ameba Pigg
 - **[Reversi UART Protocol](https://github.com/tommie-jp/reversi-uart-protocol)** — A protocol spec proposal for connecting a custom CPU to a PC over UART
 - **[Soft-FPGA-Reversi](https://github.com/tommie-jp/Soft-FPGA-Reversi)** — Pure Othello accelerator written in Verilog, run via Verilator on Raspberry Pi Pico 2
@@ -68,7 +72,7 @@ lets me build apps I'd previously found too tedious / had been unable to build. 
 [![Verilog](https://img.shields.io/badge/-Verilog-1B6FCB?logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 [![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-1B6FCB?logoColor=white)](https://en.wikipedia.org/wiki/SystemVerilog)
 
-[![Soft-FPGA](https://img.shields.io/badge/-Soft--FPGA-4A90E2?logoColor=white)](https://github.com/tommie-jp/Soft-FPGA-Reversi) — Run [Verilog](https://en.wikipedia.org/wiki/Verilog) on microcontrollers using [Verilator](https://verilator.org/)
+[![Soft-FPGA](https://img.shields.io/badge/-Soft--FPGA-4A90E2?logoColor=white)](https://github.com/tommie-jp/Soft-FPGA-Reversi) — A technology I developed and propose: convert [Verilog](https://en.wikipedia.org/wiki/Verilog) source to C++ via [Verilator](https://verilator.org/), then run on microcontrollers
 
 ### Analog / PCB
 
