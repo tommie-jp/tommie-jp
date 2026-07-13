@@ -3,6 +3,9 @@
 *.md   text eol=lf
 *.json text eol=lf
 
+# vCard は仕様 (RFC 2426) が CRLF を要求するため改行変換しない
+*.vcf  -text
+
 # GitHub Linguist
 doc/**          linguist-documentation
 README.ja.md    linguist-documentation
