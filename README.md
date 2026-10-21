@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@tommie--jp-181717?logo=github)](https://github.com/tommie-jp)
 
-<div align="right">Updated: 2026-07-14</div>
+<div align="right">Updated: 2026-10-21</div>
 
 > 💼 I'm open to work opportunities. I can help across real-time web, embedded systems, and low-level optimization. If you're interested in collaborating — including productizing any of my projects — feel free to reach out at [open.tommie@gmail.com](mailto:open.tommie@gmail.com).
 
@@ -44,6 +44,7 @@ This is the most fun I've ever had as a programmer.
 - **[soft-fpga](https://github.com/tommie-jp/soft-fpga)** — Runs Verilog RTL in the browser via Verilator + Emscripten, visualizing internal signals (T-states, bus cycles, FSM) in real time — something no instruction emulator can show ([live demo](https://tommie-jp.github.io/soft-fpga/))
 - **[tommieChat](https://github.com/tommie-jp/tommie-chat)** — A 3D MMO chat running in the browser (Babylon.js + Nakama server). Inspired by the once-popular Ameba Pigg
 - **[Reversi UART Protocol](https://github.com/tommie-jp/reversi-uart-protocol)** — A protocol spec proposal for connecting a custom CPU to a PC over UART
+  - Handout for the Homebrew CPU Reversi Meetup 2 (2026-11-28): [pamphlet PDF](https://tommie-jp.github.io/soft-fpga/docs/08-pamphlet/pamphlet.pdf) (in Japanese)
 - **[Soft-FPGA-Reversi](https://github.com/tommie-jp/Soft-FPGA-Reversi)** — Pure Othello accelerator written in Verilog, run via Verilator on Raspberry Pi Pico 2
 - **[Soft-FPGA-TD4](https://github.com/tommie-jp/Soft-FPGA-TD4)** — 4-bit TD4 CPU written in Verilog, run via Verilator on Raspberry Pi Pico 2
 - **[curve-tracer](https://github.com/tommie-jp/curve-tracer)** — Transistor / FET curve tracer

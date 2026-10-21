@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@tommie--jp-181717?logo=github)](https://github.com/tommie-jp)
 
-<div align="right">更新日: 2026-07-14</div>
+<div align="right">更新日: 2026-10-21</div>
 
 > 💼 お仕事のご相談を歓迎しています。リアルタイム Web・組込み・低レベル最適化を横断してお手伝いできます。プロジェクトの商品化などにご興味のある方も、お気軽に [open.tommie@gmail.com](mailto:open.tommie@gmail.com) までご連絡ください。
 
@@ -43,6 +43,7 @@
 - **[soft-fpga](https://github.com/tommie-jp/soft-fpga)** — Verilog RTL を Verilator + Emscripten でブラウザ実行し、命令エミュレータでは見えない内部信号 (T ステート・バスサイクル・FSM) をリアルタイム可視化 ([ライブデモ](https://tommie-jp.github.io/soft-fpga/))
 - **[tommieChat](https://github.com/tommie-jp/tommie-chat)** — ブラウザで動く 3D MMO チャット (Babylon.js + Nakama サーバ)。かつて人気だったアメーバ Pigg をリスペクト
 - **[Reversi UART Protocol](https://github.com/tommie-jp/reversi-uart-protocol)** — 自作 CPU を PC に UART 接続するためのプロトコル仕様の提案
+  - 自作CPUオセロ大会2 (2026-11-28) 配布資料: [パンフレット PDF](https://tommie-jp.github.io/soft-fpga/docs/08-pamphlet/pamphlet.pdf)
 - **[Soft-FPGA-Reversi](https://github.com/tommie-jp/Soft-FPGA-Reversi)** — Verilog で書いたリバーシ専用アクセラレータを Verilator 経由で Raspberry Pi Pico 2 上で動かす実装
 - **[Soft-FPGA-TD4](https://github.com/tommie-jp/Soft-FPGA-TD4)** — 4 ビット CPU "TD4" を Verilog で記述し、Verilator で Raspberry Pi Pico 2 上に実装
 - **[curve-tracer](https://github.com/tommie-jp/curve-tracer)** — トランジスタ／FET 用カーブトレーサ
